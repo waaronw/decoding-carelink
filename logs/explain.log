@@ -1,6 +1,6 @@
 OUT
 ## Observations
-Tue Apr  8 17:05:18 PDT 2014
+Wed Jan 14 20:47:32 UTC 2015
 
 ## stick
 
@@ -9,107 +9,148 @@ Tue Apr  8 17:05:18 PDT 2014
 ## pump
 
 
-## downloaded: 36
+## downloaded: 1
 
 ```
 INFO:session:finished executing:ReadHistoryData:size[1024]:[page][0]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][10]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][11]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][12]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][13]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][14]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][15]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][16]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][17]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][18]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][19]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][1]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][20]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][21]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][22]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][23]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][24]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][25]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][26]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][27]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][28]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][29]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][2]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][30]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][31]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][32]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][33]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][34]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][35]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][36]:data[1]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][36]:data[2]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][3]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][4]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][5]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][6]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][7]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][8]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][9]:data[1024]:
 ```
 
 
-## commands session:finished: 50
+## commands session:finished: 13
 
 ```
 INFO:session:finished executing:ReadBasalTemp:size[64]:data:{'duration': 0, 'rate': 0.0}
-INFO:session:finished executing:ReadBatteryStatus:size[64]:data:{'status': 'normal', 'voltage': 1.24}
+INFO:session:finished executing:ReadBatteryStatus:size[64]:data:{'status': 'normal', 'voltage': 1.23}
 INFO:session:finished executing:ReadContrast:size[64]:data:bytearray(b'\x02\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
 INFO:session:finished executing:ReadCurPageNumber:pages:36
-INFO:session:finished executing:ReadFirmwareVersion:size[64]:data:'VER 2.4A1.1'
+INFO:session:finished executing:ReadFirmwareVersion:size[64]:data:'VER 2.5B1.1'
 INFO:session:finished executing:ReadHistoryData:size[1024]:[page][0]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][10]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][11]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][12]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][13]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][14]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][15]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][16]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][17]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][18]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][19]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][1]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][20]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][21]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][22]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][23]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][24]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][25]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][26]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][27]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][28]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][29]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][2]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][30]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][31]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][32]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][33]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][34]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][35]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][36]:data[1]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][36]:data[2]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][3]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][4]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][5]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][6]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][7]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][8]:data[1024]:
-INFO:session:finished executing:ReadHistoryData:size[1024]:[page][9]:data[1024]:
-INFO:session:finished executing:ReadPumpID:size[64]:data:'665455'
-INFO:session:finished executing:ReadPumpModel:size[64]:data:'522'
+INFO:session:finished executing:ReadPumpID:size[64]:data:'772310'
+INFO:session:finished executing:ReadPumpModel:size[64]:data:'723'
 INFO:session:finished executing:ReadRadioCtrlACL:size[64]:data:['------', '------', '------']
-INFO:session:finished executing:ReadRemainingInsulin:size[64]:data:125.8
-INFO:session:finished executing:ReadRTC:size[64]:data:'2014-4-8T16:11:56'
-INFO:session:finished executing:ReadSettings:size[64]:data:{'low_reservoir_warn_point': 20, 'keypad_lock_status': 0, 'maxBasal': 2, 'temp_basal': {'percent': 100, 'type': 'Units/hour'}, 'paradigm_enabled': 1, 'insulinConcentration': 100, 'audio_bolus_enable': False, 'variable_bolus_enable': True, 'alarm': {'volume': 1, 'mode': 2}, 'rf_enable': False, 'block_enable': False, 'timeformat': 0, 'auto_off_duration_hrs': 0, 'audio_bolus_size': 0, 'selected_pattern': 0, 'patterns_enabled': True, 'insulin_action_type': 4, 'maxBolus': 10.0, 'low_reservoir_warn_type': 0}
-INFO:session:finished executing:ReadTotalsToday:size[64]:data:{'yesterday': 28.9, 'today': 24.1}
+INFO:session:finished executing:ReadRemainingInsulin:size[64]:data:0.0
+INFO:session:finished executing:ReadRTC:size[64]:data:'2015-1-14T15:41:14'
+INFO:session:finished executing:ReadSettings:size[64]:data:{'low_reservoir_warn_point': 20, 'keypad_lock_status': 0, 'maxBasal': 1600, 'temp_basal': {'percent': 100, 'type': 'Units/hour'}, 'paradigm_enabled': 1, 'insulinConcentration': 100, 'audio_bolus_enable': False, 'variable_bolus_enable': True, 'alarm': {'volume': 2, 'mode': 2}, 'rf_enable': False, 'block_enable': False, 'timeformat': 100, 'auto_off_duration_hrs': 0, 'audio_bolus_size': 0, 'selected_pattern': 0, 'patterns_enabled': False, 'insulin_action_type': 5, 'maxBolus': 0.0, 'low_reservoir_warn_type': 0}
+INFO:session:finished executing:ReadTotalsToday:size[64]:data:{'yesterday': 201.2, 'today': 0.0}
 ```
 
-## howdy! pump runs appear to be OK
+howdy! pump runs were NOT OK
 
+### Last send command
+
+```
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):adding segment
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):DONE
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[0]: extending original 0 with found 1024
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[0]: download respond replace original 0 with found 1024
+```
+### stats before traceback
+
+```
+104:INFO:stick:finished processing UsbStats:0x05 0x01, {'errors.timeouts': 1, 'packets.transmit': 619L, 'errors.naks': 0, 'errors.sequence': 0, 'packets.received': 619L, 'errors.crc': 0}
+124:INFO:stick:finished processing RadioStats:0x05 0x00, {'errors.timeouts': 14, 'packets.transmit': 192L, 'errors.naks': 0, 'errors.sequence': 0, 'packets.received': 171L, 'errors.crc': 0}
+126:INFO:__main__:{'radio': {'errors.crc': 0,
+127:           'errors.naks': 0,
+128:           'errors.sequence': 0,
+129:           'errors.timeouts': 14,
+130:           'packets.received': 171L,
+131:           'packets.transmit': 192L},
+132: 'usb': {'errors.crc': 0,
+133:         'errors.naks': 0,
+134:         'errors.sequence': 0,
+135:         'errors.timeouts': 1,
+136:         'packets.received': 619L,
+137:         'packets.transmit': 619L}}
+1159:INFO:__main__:finished processing UsbStats:0x05 0x01, {'errors.timeouts': 1, 'packets.transmit': 680L, 'errors.naks': 0, 'errors.sequence': 0, 'packets.received': 680L, 'errors.crc': 0}
+1179:INFO:__main__:finished processing RadioStats:0x05 0x00, {'errors.timeouts': 14, 'packets.transmit': 223L, 'errors.naks': 0, 'errors.sequence': 0, 'packets.received': 201L, 'errors.crc': 0}
+1181:INFO:__main__:{'radio': {'errors.crc': 0,
+1182:           'errors.naks': 0,
+1183:           'errors.sequence': 0,
+1184:           'errors.timeouts': 14,
+```
+### Traceback
+
+```
+INFO:stick:readData; raw[retries] 0
+INFO:stick:ReadRadio:size:142:eod:found eod (True)
+INFO:stick:found packet len(128), link expects(128)
+INFO:stick:PROCESS:END:21978.78:ReadRadio:size:142
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):adding segment
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):DONE
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[0]: extending original 0 with found 1024
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[0]: download respond replace original 0 with found 1024
+INFO:__main__:finished executing:ReadHistoryData:size[1024]:[page][0]:data[1024]:
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[1024]::download:done size check found[1024] expected[1024]:CRC ACK check found[44] expected[59]:and has eod set? False
+Traceback (most recent call last):
+  File "decocare/session.py", line 130, in <module>
+    log.info('PUMP READ PAGE 0: %s' % session.read_history_0( ))
+  File "decocare/session.py", line 96, in read_history_0
+    log.info('comm:READ history data page!!!:\n%s' % (lib.hexdump(comm.getData( ))))
+  File "/home/pi/diabetes/decoding-carelink/decocare/lib.py", line 117, in hexdump
+    hexa = ' '.join( [ '%#04x' %  x for x in list( s ) ] )
+TypeError: %x format: a number is required, not str
+Command exited with non-zero status 1
+python decocare/session.py /dev/ttyUSB0 772310
+	elapsed 0:23.83
+	user 2.84
+	system 0.29
+	CPU 13% (0text+0data 8712max)k
+```
+```
+--
+INFO:stick:readData; raw[retries] 0
+INFO:stick:ReadRadio:size:142:eod:found eod (True)
+INFO:stick:found packet len(128), link expects(128)
+INFO:stick:PROCESS:END:15657.545:ReadRadio:size:142
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):adding segment
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):DONE
+INFO:__main__:ReadHistoryData:size[1024]:[page][0]:data[0]: extending original 0 with found 1024
+INFO:__main__:ReadHistoryData:size[1024]:[page][0]:data[0]: download respond replace original 0 with found 1024
+INFO:session:finished executing:ReadHistoryData:size[1024]:[page][0]:data[1024]:
+INFO:__main__:ReadHistoryData:size[1024]:[page][0]:data[1024]::download:done size check found[1024] expected[1024]:CRC ACK check found[44] expected[59]:and has eod set? False
+Traceback (most recent call last):
+  File "decocare/commands.py", line 1491, in <module>
+    do_commands(session)
+  File "decocare/commands.py", line 1351, in do_commands
+    log.info('comm:READ history data page!!!:\n%s' % (lib.hexdump(comm.getData( ))))
+  File "/home/pi/diabetes/decoding-carelink/decocare/lib.py", line 117, in hexdump
+    hexa = ' '.join( [ '%#04x' %  x for x in list( s ) ] )
+TypeError: %x format: a number is required, not str
+Command exited with non-zero status 1
+python decocare/commands.py /dev/ttyUSB0 772310
+	elapsed 0:20.14
+	user 6.85
+	system 0.50
+	CPU 36% (0text+0data 9504max)k
+```
+Was there an ACK ERROR?
+--
+INFO:stick:readData; raw[retries] 0
+INFO:stick:ReadRadio:size:142:eod:found eod (True)
+INFO:stick:found packet len(128), link expects(128)
+INFO:stick:PROCESS:END:2782.077:ReadRadio:size:142
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):adding segment
+INFO:stick:Stick transmit[TransmitPacket:ReadHistoryData:size[1024]:[page][0]:data[0]:] reader[ReadRadio:size:142] download_i[7] status[<LinkStatus:0x03:status:size=142:size(142)>] poll_size[142] poll_i[False] command[<ReadRadio:size:142>]:download(attempts[7],expect[142],results[1024]:data[128]):DONE
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[0]: extending original 0 with found 1024
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[0]: download respond replace original 0 with found 1024
+INFO:session:finished executing:ReadHistoryData:size[1024]:[page][0]:data[1024]:
+INFO:commands:ReadHistoryData:size[1024]:[page][0]:data[1024]::download:done size check found[1024] expected[1024]:CRC ACK check found[44] expected[59]:and has eod set? False
+Traceback (most recent call last):
+  File "decocare/download.py", line 84, in <module>
+    downloader.download( )
+  File "decocare/download.py", line 25, in download
+    log.info('comm:READ history data page!!!:\n%s' % (lib.hexdump(comm.getData( ))))
+  File "/home/pi/diabetes/decoding-carelink/decocare/lib.py", line 117, in hexdump
+    hexa = ' '.join( [ '%#04x' %  x for x in list( s ) ] )
+TypeError: %x format: a number is required, not str
+Command exited with non-zero status 1
+python decocare/download.py /dev/ttyUSB0 772310
+	elapsed 0:05.17
+	user 2.14
+	system 0.24
+	CPU 45% (0text+0data 7724max)k
+```
+```
 * NO CRC ERROR FOUND
 * no nak found
-* SUCCESS, GOOD CLEAN RUN
+* NOT A CLEAN RUN
